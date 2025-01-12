@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dillonzq/LoveIt.git"
+    "url": "git+https://github.com/raylanb/LoveIt.git"
   },
   "keywords": [
     "hugo",
@@ -36,7 +36,7 @@
   "author": "Dillon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dillonzq/LoveIt/issues"
+    "url": "https://github.com/raylanb/LoveIt/issues"
   },
-  "homepage": "https://github.com/dillonzq/LoveIt#readme"
+  "homepage": "https://github.com/raylanb/LoveIt#readme"
 }
